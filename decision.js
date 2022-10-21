@@ -235,7 +235,7 @@ const findSndSmallest = (x,y,z) => {
       }
       else
       {
-        return "acute"
+        return "acute";
       }
   };
   
